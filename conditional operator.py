@@ -1,0 +1,7 @@
+print(12>15)
+print(12<19)
+print(4==4)
+print(4!=2)
+print(5>=5)
+print(6>=9)
+print(2!=100)
