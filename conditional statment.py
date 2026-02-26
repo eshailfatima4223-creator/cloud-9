@@ -16,3 +16,18 @@ if marks>50:
     print("your persentage is:", persentage , "%")
 
 print("program end")
+
+
+
+marks=float(input("enter your marks:"))
+
+if marks<50:
+    print(" you are failed", marks)
+    persentage=marks/100*100
+    print("your persentage is:", persentage , "%")
+
+print("program end")
+
+
+
+ 
